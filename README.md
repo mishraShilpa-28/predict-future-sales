@@ -20,7 +20,7 @@ This project is a time-series forecasting model that predicts future sales based
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/sharmaroshan/Predict-Future-Sales.git
+   git clone https://github.com/mishraShilpa-28/predict-future-sales.git
    cd Predict-Future-Sales
 
 
