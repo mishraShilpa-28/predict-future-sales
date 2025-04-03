@@ -23,13 +23,10 @@ This project is a time-series forecasting model that predicts future sales based
    git clone https://github.com/mishraShilpa-28/predict-future-sales.git
    cd Predict-Future-Sales
 
-
 2. Install dependencies:
-   bash
-   Copy
-   Edit
-   pip install -r requirements.txt
-   Run the Jupyter Notebook or Python scripts to explore and train the model.
+   `pip install -r requirements.txt`
+
+3. Run the Jupyter Notebook or Python scripts to explore and train the model.
 
 ## Dataset
 The dataset used is from Kaggle's Predict Future Sales competition. It includes sales data from a Russian software company.
