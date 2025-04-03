@@ -24,7 +24,8 @@ This project is a time-series forecasting model that predicts future sales based
    cd Predict-Future-Sales
 
 2. Install dependencies:
-   ```pip install -r requirements.txt```
+   ```bash
+   pip install -r requirements.txt
 
 3. Run the Jupyter Notebook or Python scripts to explore and train the model.
 
